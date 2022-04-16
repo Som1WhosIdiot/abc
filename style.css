@@ -1,0 +1,75 @@
+.ListeParagraphe {
+	color: gray;
+}
+
+.RickRoll {
+	color: Black;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: default;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+h1 {
+	color: rgb(46, 140, 222);
+}
+
+body {
+	/*Ajouter background-image*/
+	background-image: url("background.png");
+	background-repeat: no-repeat;
+	background-position: -900px 0px;
+	background-attachment: fixed;
+	background-size: 200%;
+	line-height: 20px;
+	font-family: Tahoma,Garamond, sans-serif;
+	text-align: center;
+	text-shadow: 5px 2.5px 3px gray;
+	/*Les bordures*/
+	border: solid;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 20px;
+	border-width: 10px;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 5px 5px 3px gray;
+	border-width: 100%;
+}
+
+p {
+	font-size: 25px;
+}
+
+h1{
+	font-size: 75px;
+	top: 0px;
+	text-decoration: none;
+}
+
+h2{
+	font-size: 50px;
+}
+
+li {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.h {
+	letter-spacing: 10px;
+	word-spacing: 20px;
+}
+
+.VideoSohran {
+
+	border: 20px solid black;
+	border-radius: 20px;
+	
+}
+
+
+
